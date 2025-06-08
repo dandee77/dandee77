@@ -31,12 +31,5 @@
 
 ---
 
-## 📫 How to Reach Me
-
-📧 Email: [dandeegalang.ph@gmail.com](mailto:dandeegalang.ph@gmail.com)  
-🌐 Website: [dandee77.github.io](https://dandee77.github.io/)
-
----
-
 ## ⚡ GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandee77&layout=compact&theme=radical)
