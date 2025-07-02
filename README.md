@@ -45,13 +45,4 @@
     </td>
   </tr>
 </table>
-
-### 🎓 Education
-
-* `2021 ~ Present` Bachelor of Computer Engineering, Bulacan State University
-  <br>
-* `2020 ~ 2021` General Academic Strand, Fernandez College of Arts and Technology
-  <br>
-* `2019 ~ 2020` Science, Technology, Engineering and Mathematics Strand, AMA University
-  <br>
 </div>
