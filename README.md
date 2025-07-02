@@ -9,8 +9,6 @@
 ![Visitors](https://api.visitorbadge.io/api/daily?path=dandee77\&label=VISITORS\&countColor=%23f47373)
 -->
 
-## 👋 Hi, I'm Dandee Galang
-
 <table>
   <tr>
     <td align="left">
