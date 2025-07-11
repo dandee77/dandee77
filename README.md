@@ -8,20 +8,20 @@
 
 <h1>🛠️ Languages and Tools:</h1>
 
-<details><summary>Web Development</summary>
+<details><summary>Web Development</summary> <br>
   
-[![Web development tools](https://go-skill-icons.vercel.app/api/icons?i=react,ts,js,fastapi,wordpress,mysql,html,css,bootstrap,tailwind,figma&theme=dark)](https://github.com/LelouchFR/skill-icons)
+[![Web development tools](https://go-skill-icons.vercel.app/api/icons?i=react,ts,js,php,fastapi,wordpress,mysql,html,css,bootstrap,tailwind,figma&theme=dark)](https://github.com/LelouchFR/skill-icons)
 
 </details>
 <!-- <details><summary>IoT</summary>
   
-[![IoT tools](https://go-skill-icons.vercel.app/api/icons?i=arduino,raspberrypi,cpp&theme=light)](https://github.com/LelouchFR/skill-icons)
+<!-- [![IoT tools](https://go-skill-icons.vercel.app/api/icons?i=arduino,raspberrypi,cpp&theme=light)](https://github.com/LelouchFR/skill-icons)
 </details> -->
-<details><summary>Desktop & Mobile Applications</summary>
+<details><summary>Desktop & Mobile Applications</summary> <br>
   
-[![Application tools](https://go-skill-icons.vercel.app/api/icons?i=cpp,c,androidstudio,java,flutter&theme=light)](https://github.com/LelouchFR/skill-icons)
+[![Application tools](https://go-skill-icons.vercel.app/api/icons?i=cpp,c,androidstudio,java,flutter&theme=dark)](https://github.com/LelouchFR/skill-icons)
 </details>
-<details><summary>Machine Learning & Automation</summary>
+<details><summary>Machine Learning & Automation</summary><br>
   
 [![AI tools](https://go-skill-icons.vercel.app/api/icons?i=python,n8n,huggingface,langchain,gemini,chatgpt,azure,sklearn,pandas,numpy,matplotlib&theme=light)](https://github.com/LelouchFR/skill-icons)
 </details>
