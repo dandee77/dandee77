@@ -30,7 +30,7 @@
 
 <details><summary><b>🏆 Github Trophies</b></summary>
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanyouwell&theme=gitdimmed" alt="emmanyouwell" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dandee77&theme=gitdimmed" alt="dandee77" /></a> </p>
 </details>
 <details>
   <summary><b>📊 GitHub Stats</b></summary>
