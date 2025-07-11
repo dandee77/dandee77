@@ -2,47 +2,53 @@
 
 <!--  Header  -->
 
-![header](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=120\&animation=fadeIn\&section=footer\&text=dandee77\&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=dandee77&fontAlign=70)
 
 <!--  Badge  -->
-<!--
-![Visitors](https://api.visitorbadge.io/api/daily?path=dandee77\&label=VISITORS\&countColor=%23f47373)
--->
-### 🛠️ Tech Stack 
-<table>
-  <tr>
-    <td align="left">
-      <!-- Left column: Tools badges -->
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-      <br />
-      <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-      <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-      <br />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-      <br />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-      <br />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-      <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">
-    </td>
-    <td align="right">
-      <!-- Right column: Image link -->
-      <a href="https://github.com/dandee77">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandee77&layout=compact&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
+
+<h1>🛠️ Languages and Tools:</h1>
+
+<details><summary>Web Development</summary>
+  
+[![Web development tools](https://go-skill-icons.vercel.app/api/icons?i=react,ts,js,fastapi,wordpress,mysql,html,css,bootstrap,tailwind,figma&theme=dark)](https://github.com/LelouchFR/skill-icons)
+
+</details>
+<!-- <details><summary>IoT</summary>
+  
+[![IoT tools](https://go-skill-icons.vercel.app/api/icons?i=arduino,raspberrypi,cpp&theme=light)](https://github.com/LelouchFR/skill-icons)
+</details> -->
+<details><summary>Desktop & Mobile Applications</summary>
+  
+[![Application tools](https://go-skill-icons.vercel.app/api/icons?i=cpp,c,androidstudio,java,flutter&theme=light)](https://github.com/LelouchFR/skill-icons)
+</details>
+<details><summary>Machine Learning & Automation</summary>
+  
+[![AI tools](https://go-skill-icons.vercel.app/api/icons?i=python,n8n,huggingface,langchain,gemini,chatgpt,azure,sklearn,pandas,numpy,matplotlib&theme=light)](https://github.com/LelouchFR/skill-icons)
+</details>
+
+---
+
+<details><summary><b>🏆 Github Trophies</b></summary>
+<br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanyouwell&theme=gitdimmed" alt="emmanyouwell" /></a> </p>
+</details>
+<details>
+  <summary><b>📊 GitHub Stats</b></summary>
+  <br/>
+  <div align="center">
+    <img width=900 src="https://streak-stats.demolab.com?user=dandee77&theme=blueberry&hide_border=true" alt="GitHub Streak" />
+  </div>
+  <div align="center">
+    <img width=900 src="https://raw.githubusercontent.com/dandee77/dandee77/main/profile-summary-card-output/blueberry/0-profile-details.svg" alt="Profile Details" />
+  </div>
+  <div align="center">
+    <img width=420 src="https://raw.githubusercontent.com/dandee77/dandee77/main/profile-summary-card-output/blueberry/2-most-commit-language.svg" alt="Most Commit Language" />
+    <img width=420 src="https://raw.githubusercontent.com/dandee77/dandee77/main/profile-summary-card-output/blueberry/4-productive-time.svg" alt="Productive Time" />
+  </div>
+  <div align="center">
+    <img width=900 src="https://my-readme-stats-gold.vercel.app/api?username=dandee77&show=prs_merged&show_icons=true&theme=blueberry&hide_border=true&locale=en" alt="GitHub Stats" />
+  </div>
+  <div align="center">
+    <img width=900 src="https://github-readme-activity-graph.vercel.app/graph?username=dandee77&hide_border=true&bg_color=242938&color=25ca80&title_color=4a75db&line=25ca80&point=4a75db&area=true&area_color=26d79f" alt="Activity Graph"/>
+  </div>
+</details>
