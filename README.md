@@ -36,8 +36,8 @@
   <summary><b>📊 GitHub Stats</b></summary>
   <br/>
   <div align="center">
-    <img width=900 src="https://github-readme-streak-stats.herokuapp.com/?user=dandee77&theme=blueberry&hide_border=true" alt="GitHub Streak" />
-    <img width=900 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandee77&layout=compact&theme=blueberry&hide_border=true" />
+    <img width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=dandee77&theme=blueberry&hide_border=true" alt="GitHub Streak" />
+    <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dandee77&layout=compact&theme=blueberry&hide_border=true" />
   </div>
   <div align="center">
   </div>
